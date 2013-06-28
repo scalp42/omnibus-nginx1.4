@@ -3,7 +3,7 @@ maintainer      "Myroslav Rys"
 homepage        "http://nginx.org"
 
 replaces        "nginx"
-install_path    "/opt/nginx"
+install_path    "/opt/nginx1.4"
 build_version   "1.4.1"
 build_iteration 1
 
