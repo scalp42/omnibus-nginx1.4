@@ -9,7 +9,7 @@ end
 
 host_project_path = File.expand_path("..", __FILE__)
 guest_project_path = "/home/vagrant/#{File.basename(host_project_path)}"
-project_name = "nginxi1.4"
+project_name = "nginx1.4"
 
 Vagrant.configure("2") do |config|
 
